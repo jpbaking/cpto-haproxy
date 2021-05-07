@@ -2,7 +2,7 @@
 
 This is a part/submodule of the "Containerized HTTP/SOCKS Proxy Through OpenVPN" (CPTO) project.
 
-![PREVIEW](./.images/preview.png)
+![PREVIEW](https://raw.githubusercontent.com/jpbaking/cpto/main/.images/preview.png)
 
 CPTO will expose HTTP/SOCKS proxy ports that forwards traffic through the OpenVPN client configured. Perfect for those that don't want/need to have their entire host machine be on the OpenVPN network.
 
